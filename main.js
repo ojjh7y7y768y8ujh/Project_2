@@ -1,0 +1,1 @@
+var selectedcolor = $('#jqueryselect option:selected').text();
